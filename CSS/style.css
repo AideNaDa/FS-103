@@ -1,0 +1,43 @@
+.main {}
+
+.hero {
+
+}
+
+.hero-title {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 28px;
+    font-weight: 500;
+    line-height: 1.21;
+    letter-spacing: -0.03em;
+
+}
+
+.hero-buy-btn {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.hero-made-btn {
+    color: #FFF;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.hero-scroll-btn {
+    color: #FFF;
+    
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 500;
+        line-height: 1.29;
+        letter-spacing: -0.03em;
+}
