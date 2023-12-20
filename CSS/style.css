@@ -41,3 +41,373 @@
         line-height: 1.29;
         letter-spacing: -0.03em;
 }
+
+.taste {
+    color: #111;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.17;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
+
+.taste-title {
+color: #111;
+
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.17;
+    /* 116.667% */
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
+
+.taste-text {
+    color: #111;
+    
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.29;
+        /* 128.571% */
+        letter-spacing: -0.02em;
+}
+
+.taste-title span{
+    color: #FD9222;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
+
+.taste-list {
+
+}   
+
+.taste-item {
+
+}
+
+.taste-img {
+
+}
+
+.taste-subtitle {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 600;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+    text-transform: uppercase;
+}
+
+.benefits {
+
+}
+
+.benefits-list {
+
+}
+
+.benefits-item {}
+
+.benefits-title {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.benefits-text {
+    color: rgba(255, 255, 255, 0.70);
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+}
+.made-title span{
+    color: #FD9222;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+}
+.made-title {
+    color: #111;
+    
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 1.17;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+}
+
+.made-img {}
+
+.made-subtitle {
+    color: #111;
+        font-family: Montserrat;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 1.33;
+}
+
+.made-list {}
+
+.made-item {}
+
+.made-item-text {
+    color: #111;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 400;
+        line-height: 1.29;
+        letter-spacing: -0.02em;
+}
+
+.products {}
+
+.products-title span{
+    color: #FD9222;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+}
+.products-title {
+
+    color: #111;
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 1.17;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+}
+
+.products-list {}
+
+.products-item {}
+
+.products-img {}
+
+.products-text {
+    color: rgba(17, 17, 17, 0.70);
+    font-family: Montserrat;
+    font-size: 12px;
+    font-weight: 400;
+    line-height: 1.17;
+    letter-spacing: -0.02em;
+}
+
+.products-btn {
+    color: #111;
+    
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 600;
+        line-height: normal;
+}
+
+.products-subtitle {
+    color: #111;
+        font-family: Montserrat;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.33;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+}
+
+.sellers {}
+
+.sellers-title span{
+    color: #111;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-weight: 600;
+        line-height: 28px;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+}
+
+.sellers-title {
+    color: #FD9222;
+
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 1.17;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;}
+
+.sellers-list {}
+
+.sellers-item {}
+
+.sellers-img {}
+
+.sellers-subtitle {
+    color: #111;
+        font-family: Montserrat;
+        font-size: 18px;
+        font-weight: 600;
+        line-height: 1.33;
+        letter-spacing: -0.02em;
+        text-transform: uppercase;
+}
+.loved-title {
+    color: #FD9222;
+    
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 24px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 1.17;
+        letter-spacing: -0.03em;
+        text-transform: uppercase;
+}
+
+.loved-list {}
+
+.loved-img {}
+
+.loved-subtitle {
+    color: #111;
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 18px;
+        font-style: normal;
+        font-weight: 600;
+        line-height: 1.33;
+}
+
+.loved-text {
+    color: rgba(17, 17, 17, 0.70);
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-style: normal;
+        font-weight: 400;
+        line-height: 1.29;
+        letter-spacing: -0.02em;
+}
+.loved-btn{
+    color: #111;
+    font-family: inherit;
+    font-size: 18px;
+    font-weight: 600;
+    line-height: normal;
+}
+
+.footer-head {
+    color: #FD9222;
+    
+        font-family: Montserrat;
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 1.21;
+        letter-spacing: -0.02em;
+}
+
+.footer-head span{
+    color: #FFF;
+        font-family: Montserrat;
+        font-size: 28px;
+        font-weight: 500;
+        line-height: 34px;
+        letter-spacing: -0.02em;
+}
+
+.footer-subtitle {
+    color: #FFF;
+        text-align: center;
+        font-family: Montserrat;
+        font-size: 14px;
+        font-weight: 500;
+        line-height: 1.29;
+}
+
+.footer-list {}
+
+.footer-soc-item {}
+
+.footer-soc-link {}
+
+.address {}
+
+.address-list {}
+
+.address-item {}
+
+.address-phone {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+}
+
+.address-mail {
+    color: #FFF;
+    text-align: center;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: 1.29;
+    letter-spacing: -0.02em;
+}
+
+.footer-navigation {}
+
+.footer-navigation-list {}
+
+.footer-navigation-item {}
+
+.footer-navigation-link {
+    color: #FFF;
+    font-family: Montserrat;
+    font-size: 14px;
+    font-weight: 500;
+    line-height: 1.14;
+    letter-spacing: -0.02em;
+}
+
+.loved-title span{
+    color: #111;
+    font-family: Montserrat;
+    font-size: 24px;
+    font-weight: 600;
+    line-height: 28px;
+    letter-spacing: -0.03em;
+    text-transform: uppercase;
+}
