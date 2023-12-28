@@ -14,6 +14,7 @@ h6 {
 
 a {
   text-decoration: none;
+  color: currentColor;
 }
 
 ul {
@@ -21,6 +22,19 @@ ul {
   margin-top: 0;
   margin-bottom: 0;
   padding-left: 0;
+}
+
+.visually-hidden {
+  position: absolute;
+  width: 1px;
+  height: 1px;
+  margin: -1px;
+  border: 0;
+  padding: 0;
+  white-space: nowrap;
+  clip-path: inset(100%);
+  clip: rect(0 0 0 0);
+  overflow: hidden;
 }
 
 button{
@@ -39,6 +53,14 @@ address{
     outline: 2px solid red;
 }
 
+.link{
+  text-decoration: none;
+}
+
+.visuali-hidden{
+  
+}
+
 header{
     padding-top: 24px;
     padding-bottom: 32px;
@@ -48,6 +70,7 @@ header{
 }
 
 .hero {
+  padding-bottom: 80px;
 }
 
 .hero-container{
@@ -95,6 +118,7 @@ header{
   letter-spacing: -0.03em;
 }
 
+
 .taste {
   color: #111;
   text-align: center;
@@ -104,11 +128,11 @@ header{
   line-height: 1.17;
   letter-spacing: -0.03em;
   text-transform: uppercase;
+  padding-top: 120px;
 }
 
 .taste-title {
   color: #111;
-
   text-align: center;
   font-family: Montserrat;
   font-size: 24px;
@@ -116,11 +140,13 @@ header{
   line-height: 1.17;
   letter-spacing: -0.03em;
   text-transform: uppercase;
+  margin: 0 auto 28px;
+  max-width: 412px;
 }
 
 .taste-text {
   color: #111;
-
+  
   text-align: center;
   font-family: Montserrat;
   font-size: 14px;
@@ -128,6 +154,9 @@ header{
   font-weight: 400;
   line-height: 1.29;
   letter-spacing: -0.02em;
+  margin: 0 auto 28px;
+  max-width: 486px
+  ;
 }
 
 .taste-title span {
@@ -160,12 +189,14 @@ header{
   text-transform: uppercase;
 }
 
-.benefits {
-    background: #1E1823;
+.benefits{
+  background-color: #1e1823;
+  padding-top: 50px;
+  padding-bottom: 50px;
 }
 
 .benefits-list {
-    padding: 50px;
+  padding: 50px;
 }
 
 .benefits-item {
@@ -177,7 +208,7 @@ header{
   font-size: 18px;
   font-weight: 600;
   line-height: normal;
-  padding-bottom: 18px;
+  margin-bottom: 18px;
 }
 
 .benefits-text {
