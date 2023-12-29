@@ -66,6 +66,28 @@ header{
     padding-bottom: 32px;
 }
 
+.header-navigation {}
+
+.header-logo {
+  display: flex;
+  align-items: center;
+  gap: 4px;
+}
+
+.header-logo-img {}
+
+.header-menu-lits {}
+
+.header-menu-item {}
+
+.header-list-link {}
+
+.header-menu-link {}
+
+.header-soc-item {}
+
+.header-soc-link {}
+
 .main {
 }
 
